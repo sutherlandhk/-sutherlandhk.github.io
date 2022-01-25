@@ -16,6 +16,7 @@ border: 5px dotted fuchsia;
 }
 .top {
 background-color:yellow;
+float: left;
 }
 h3 {
 color:yellow;
