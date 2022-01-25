@@ -1,0 +1,24 @@
+h1 {
+color:teal;
+font-family:helvetica;
+background-color:pink;
+border:5px solid red;
+padding:50px;
+}
+
+p {
+color:pink;
+}
+
+h3 {
+color:yellow;
+}
+body {
+background-color:green;
+}
+img {
+border: 5px solid fuchsia;
+width:30%;
+height:30%;
+margin-left:100px;
+}
