@@ -9,6 +9,11 @@ padding:50px;
 p {
 color:pink;
 }
+#highlight {
+color:orange;
+background-color:violet;
+border: 5px dotted fuchsia;
+}
 
 h3 {
 color:yellow;
